@@ -1,6 +1,5 @@
 package com.fuller.registration.appuser;
 
-import com.fuller.registration.AppUser;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 

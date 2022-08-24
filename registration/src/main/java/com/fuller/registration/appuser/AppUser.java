@@ -1,4 +1,4 @@
-package com.fuller.registration;
+package com.fuller.registration.appuser;
 
 import com.fuller.registration.appuser.AppUserRole;
 import lombok.EqualsAndHashCode;
